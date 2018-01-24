@@ -1,0 +1,77 @@
+
+
+body {
+	background-color: darkkhaki;
+	
+}
+
+.educationImage{ 
+	background-image: url(images/UWL1.jpg);
+	position: relative;
+	background-repeat: no-repeat;
+}
+
+.HTMLCSS{ 
+	background-image: url(images/HTMLCSS.png);
+	background-size: 400px;
+	position: relative;
+	height: 50%;
+	width: 100%;
+    max-width: 400px;
+}
+
+.resume{ 
+	background-image: url(images/resume.jpg);
+	background-size: 600px;
+	position: relative;
+	height: 200%;
+	width: 150%;
+    max-width: 900px;
+    height: 725px;
+    background-repeat: no-repeat;
+}
+
+
+.PTT{ 
+	background-image: url(images/PTT.jpg);
+	position: relative;
+	left: 90px;
+	top: 20px;
+	background-repeat: no-repeat;
+	background-image: center;
+	size: 175
+	%;
+}
+
+.KTC{ 
+	background-image: url(images/KTC.png);
+	position: relative;
+    left: 80px;
+	top: 20px;
+	background-size: 300px;
+	background-image: center;
+    margin: auto;
+    background-repeat: no-repeat;
+}
+
+.titleFont{
+	font-size: 50px;
+	font-stretch: expanded;
+	font-style: bold;
+}
+
+.headingFont{
+	font-style: bold;
+	font-size: 36px;
+	text-decoration: underline;
+}
+
+.subHeadingFont{
+	font-style: bold;
+	font-size: 24px;
+	
+}
+
+.bottomLinks{
+	font-size: 36;
+}

@@ -1,0 +1,28 @@
+1. git add . - preparing things to be committed track all files that have changes made effects files in your repository on github
+2. git commit -m "message" committs changes to github and going to leave a message messages help to keep track what is going on when looking back at it
+3 git pull origin master pulling the code out there and bringing it to me (anytime when someone updates, you'll need to pull in order to get the updated version online) must pull before you push, so you include everyone elses changes when you put your new version online
+	This will mean that the file you were just working on, will not match what you put up last when you last pushed. if you had a merge conflict you would want to go back to step 1 and start over and add, and committ new messages 
+4. test to resolve conflicts
+5. git push origin master- pushing your changed up to the internet
+
+git status check for staged and untracked stages- will tell you the status 
+git init initailize an empty git repo
+git diff[commit hash] view the diff between two commits 
+
+commit often
+push when youre ready
+and pull regularly
+
+
+origin master, you will never need more than one branch default to origin master
+
+basic commands listed in the Github powerpoint
+
+
+Nav to project directory
+git init
+create remote repo
+git remote add origin github url
+
+remote and local repositories must be created in order to connect the two
+will create the init where you are, so be careful where you make a git init
